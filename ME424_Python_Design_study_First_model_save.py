@@ -1,5 +1,7 @@
 """
 ME424_Python_Design_study.py 
+ID: 23405902
+Name: Oisín Naughton
 Output:  printed table and design_study__results.csv
 Needs:   numpy and the two design-day CSV files in the same folder.
 """
