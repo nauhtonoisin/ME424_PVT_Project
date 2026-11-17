@@ -1,0 +1,7 @@
+day,system,heat_kWh,electricity_kWh,total_kWh,tank_end_C,time_45C_UTC
+Average,PV/T,3.64,6.3,9.94,30.9,not reached
+Average,PV only,0.0,6.25,6.25,-,-
+Average,Thermal only,8.46,0.0,8.46,58.6,12:02
+Clear,PV/T,8.69,11.67,20.36,59.9,12:14
+Clear,PV only,0.0,11.85,11.85,-,-
+Clear,Thermal only,14.98,0.0,14.98,96.0,10:20
